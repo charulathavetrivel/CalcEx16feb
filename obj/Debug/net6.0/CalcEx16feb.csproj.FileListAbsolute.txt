@@ -1,0 +1,15 @@
+C:\git\project1\15febDay3\CalcEx16feb\CalcEx16feb\bin\Debug\net6.0\CalcEx16feb.exe
+C:\git\project1\15febDay3\CalcEx16feb\CalcEx16feb\bin\Debug\net6.0\CalcEx16feb.deps.json
+C:\git\project1\15febDay3\CalcEx16feb\CalcEx16feb\bin\Debug\net6.0\CalcEx16feb.runtimeconfig.json
+C:\git\project1\15febDay3\CalcEx16feb\CalcEx16feb\bin\Debug\net6.0\CalcEx16feb.dll
+C:\git\project1\15febDay3\CalcEx16feb\CalcEx16feb\bin\Debug\net6.0\CalcEx16feb.pdb
+C:\git\project1\15febDay3\CalcEx16feb\CalcEx16feb\obj\Debug\net6.0\CalcEx16feb.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\project1\15febDay3\CalcEx16feb\CalcEx16feb\obj\Debug\net6.0\CalcEx16feb.AssemblyInfoInputs.cache
+C:\git\project1\15febDay3\CalcEx16feb\CalcEx16feb\obj\Debug\net6.0\CalcEx16feb.AssemblyInfo.cs
+C:\git\project1\15febDay3\CalcEx16feb\CalcEx16feb\obj\Debug\net6.0\CalcEx16feb.csproj.CoreCompileInputs.cache
+C:\git\project1\15febDay3\CalcEx16feb\CalcEx16feb\obj\Debug\net6.0\CalcEx16feb.sourcelink.json
+C:\git\project1\15febDay3\CalcEx16feb\CalcEx16feb\obj\Debug\net6.0\CalcEx16feb.dll
+C:\git\project1\15febDay3\CalcEx16feb\CalcEx16feb\obj\Debug\net6.0\refint\CalcEx16feb.dll
+C:\git\project1\15febDay3\CalcEx16feb\CalcEx16feb\obj\Debug\net6.0\CalcEx16feb.pdb
+C:\git\project1\15febDay3\CalcEx16feb\CalcEx16feb\obj\Debug\net6.0\CalcEx16feb.genruntimeconfig.cache
+C:\git\project1\15febDay3\CalcEx16feb\CalcEx16feb\obj\Debug\net6.0\ref\CalcEx16feb.dll

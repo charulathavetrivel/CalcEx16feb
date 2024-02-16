@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CalcEx16feb/1.0.0": {
+        "runtime": {
+          "CalcEx16feb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalcEx16feb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
