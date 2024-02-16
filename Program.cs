@@ -9,7 +9,9 @@ calc.Sub(40, 20);
 Console.WriteLine("Div Calc");
 calc.Div(20, 20);
 Console.WriteLine("Multi Calc");
-calc.Multi(20, 20);
+calc.Multi(20.4, 20.5);
+Console.WriteLine("Avg Calc");
+calc.Avg(20.5, 20.5);
 
 
 

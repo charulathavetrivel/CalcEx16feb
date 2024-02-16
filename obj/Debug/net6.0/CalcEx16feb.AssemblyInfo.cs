@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalcEx16feb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a149e12f1b7e86f261bb688edcbcd59a1f4cccce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffcd1b1a434ffd8762161eaafc345953e0a47b14")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalcEx16feb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalcEx16feb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
